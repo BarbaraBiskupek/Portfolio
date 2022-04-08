@@ -47,3 +47,5 @@ Today I am qualified Software Tester with proactive and ready-to-learn approach.
 # My bug reports examples
  
 # My projects
+
+

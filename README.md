@@ -32,7 +32,7 @@ Today I am qualified Software Tester with proactive and ready-to-learn approach.
   - [testuj.pl Akademia testowania - kurs IT online](https://testuj.pl/karta-szkolenia/kurs-it-online-wieczorowa-akademia-testowania-plus)
   ISTQB FL preparation and Software Testing Course
   - [Fundacja CODE:ME - Warsztaty SQL](https://codeme.pl/)
-  Introduction to relational database and PostrgreSQL
+  Introduction to relational database and PostgreSQL
   # Books
   - Smilgin Radosław - Zawód tester
   - Roman Adam, Stapp Lucjan - Certyfikowany Tester ISTQB

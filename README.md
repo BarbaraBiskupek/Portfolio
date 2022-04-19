@@ -26,18 +26,21 @@ Today I am qualified Software Tester with proactive and ready-to-learn approach.
   - Difficult Interactions
   - Creative Thinking
   - Excel Advanced
-# Course
+  
+  # My source of knowledge:
+  # Courses
   - [testuj.pl Akademia testowania - kurs IT online](https://testuj.pl/karta-szkolenia/kurs-it-online-wieczorowa-akademia-testowania-plus)
   ISTQB FL preparation and Software Testing Course
-  
-# Books
+  - [Fundacja CODE:ME Warsztaty SQL] (https://codeme.pl/)
+  Wprowadzenie do relacyjnych baz danych i PostrgreSQL
+  # Books
   - Smilgin Radosław - Zawód tester
   - Roman Adam, Stapp Lucjan - Certyfikowany Tester ISTQB
   - Pawłowska Karolina, Pawlak Natalia - Podróż przez świat testowania
-# Groups on Facebook
+  # Groups on Facebook
   - Tester oprogramowania - wsparcie na starcie
   - Testowanie oprogramowania
-#  Blogs
+  #  Blogs
   - https://testerzy.pl/
   - https://testuj.pl/
   - https://www.wyszkolewas.com.pl/
